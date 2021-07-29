@@ -1,0 +1,39 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* -------header Section-------- */
+.btn-custom-design{
+    padding: 10px 45px;
+    color: white;
+    background-color: #E76F51;
+    border-style: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.header-section{
+    background-color: #264653;
+}
+.image-width{
+    width: 100%;
+}
+.css-grayscale{
+    filter: grayscale(100%);
+}
+.custom-text-color{
+    color: #E76F51;
+}
+.questions-banner-height{
+    height: 80%;
+}
+/* -----Footer Section----- */
+.footer-section{
+    height: 280px;
+    width: 100%;
+    background-color: #0B0D17;
+}
+.contact-link{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    padding: 10px 30px;
+}
