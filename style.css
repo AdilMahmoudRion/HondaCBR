@@ -2,11 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 /* -------header Section-------- */
-.background-shadow{
-    border-radius: 20px;
-    background: #ffffff;
-    box-shadow:  5px 5px 53px #e6e6e6,-5px -5px 53px #ffffff;
-}
+
 .btn-custom-design{
     padding: 10px 45px;
     color: white;
@@ -30,6 +26,11 @@ body{
 .questions-banner-height{
     height: 80%;
 }
+.background-shadow{
+    border-radius: 20px;
+    background: #ffffff;
+    box-shadow:  5px 5px 53px #e6e6e6,-5px -5px 53px #ffffff;
+}
 /* -----Footer Section----- */
 .footer-section{
     min-height: 280px;
@@ -41,7 +42,10 @@ body{
     color: white;
     font-size: 16px;
 }
-/* .contact-link:hover{
-    background-color: #E76F51;
-    color: white;
+.custom-reaio{
+    --bs-aspect-ratio: 65%;
+}
+/* .table-bg{
+    background: #ffffff;
+    box-shadow:  5px 5px 10px #f0f0f0,-5px -5px 10px #ffffff;
 } */
