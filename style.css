@@ -27,7 +27,7 @@ body{
 }
 /* -----Footer Section----- */
 .footer-section{
-    height: 280px;
+    min-height: 280px;
     width: 100%;
     background-color: #0B0D17;
 }
@@ -35,5 +35,4 @@ body{
     text-decoration: none;
     color: white;
     font-size: 16px;
-    padding: 10px 30px;
 }
