@@ -14,8 +14,8 @@ body{
 .header-section{
     background-color: #264653;
 }
-.image-width{
-    width: 100%;
+.header-text-color-p{
+    color: #E0E0E0;
 }
 .css-grayscale{
     filter: grayscale(100%);
