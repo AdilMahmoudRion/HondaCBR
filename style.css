@@ -11,6 +11,9 @@ body{
     cursor: pointer;
     border-radius: 5px;
 }
+.btn-custom-design:hover{
+    background-color: #ff6d48;
+}
 .header-section{
     background-color: #264653;
 }
@@ -45,7 +48,3 @@ body{
 .custom-reaio{
     --bs-aspect-ratio: 65%;
 }
-/* .table-bg{
-    background: #ffffff;
-    box-shadow:  5px 5px 10px #f0f0f0,-5px -5px 10px #ffffff;
-} */
